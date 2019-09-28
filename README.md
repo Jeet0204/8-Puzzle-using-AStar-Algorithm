@@ -140,12 +140,12 @@ is not matched.
 # How to run the code
 Enter the comma seperated Initial and Goal matrix
 For e.g.
-  Initial State 
-\n    1,2,3
- \n   4,5,6
-    7,8,0
+Initial State 
+1,2,3
+4,5,6
+7,8,0
 
-  Goal State
-    1,2,3
-    4,6,5
-    8,7,0
+Goal State
+1,2,3
+4,6,5
+8,7,0
