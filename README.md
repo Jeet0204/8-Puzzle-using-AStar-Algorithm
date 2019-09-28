@@ -141,12 +141,12 @@ is not matched.
 Enter the comma seperated Initial and Goal matrix
 
 For e.g.
-Initial State 
+Initial State <br />
 1,2,3 <br />
 4,5,6 <br />
 7,8,0 <br />
 
-Goal State
+Goal State <br />
 1,2,3 <br />
 4,6,5 <br />
 8,7,0 <br />
