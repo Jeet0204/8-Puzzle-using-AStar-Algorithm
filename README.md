@@ -1,4 +1,4 @@
-# 8-Puzzle-using-A-Algorithm
+# 8-Puzzle-using-AStar-Search-Algorithm
 
 # Formulation
 A* search algorithm is mainly used for path finding and path traversal in solving problems by
